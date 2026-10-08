@@ -1,0 +1,34 @@
+### Full Video Script — AFib Explainer
+
+Your heart has its own electrical system — like a conductor leading an orchestra.
+
+In a healthy heart, the conductor sends a steady beat, about 60 to 100 times a minute. Every chamber contracts in perfect order.
+
+In atrial fibrillation, the upper chambers start firing chaotic electrical signals — like dozens of conductors all waving at once. Instead of a steady beat, your heart quivers and beats irregularly.
+
+This matters for two big reasons.
+
+First, when the upper chambers quiver instead of pumping, blood can pool there. Pooled blood can form clots. If a clot travels to your brain, it causes a stroke. That is why your doctor prescribed a blood thinner — it is your most important protection.
+
+Second, AFib can make your heart beat too fast, which tires the heart muscle over time. Rate control medications keep that in check.
+
+The good news: most people with AFib live full, active lives.
+
+With the right medications, regular monitoring through your connected device, and understanding your personal triggers, you can manage this condition confidently.
+
+Your care team at HelloAlfred monitors your readings between visits so nothing gets missed.
+
+### Storyboard — 10 Scenes
+
+| Scene | Time | Visual | Audio | Alt-Text (AD) |
+|-------|------|--------|-------|---------------|
+| 1 | 0:00–0:12 | Animated heart with glowing SA node pulsing steadily. Electrical pathway lights up in sequence: SA node → atria → AV node → ventricles. | "Your heart has its own electrical system — like a conductor leading an orchestra." | A heart diagram shows a small node at the top right glowing rhythmically. |
+| 2 | 0:12–0:22 | Heart beating in normal sinus rhythm. Rate counter shows 72 bpm. All four chambers contracting in sequence. | "In a healthy heart, the conductor sends a steady beat, about 60 to 100 times a minute. Every chamber contracts in perfect order." | The heart beats steadily at 72 bpm. |
+| 3 | 0:22–0:38 | SA node replaced by multiple chaotic sparkpoints across both atria. Rate counter jumps erratically: 110, 95, 130, 88. | "In atrial fibrillation, the upper chambers start firing chaotic electrical signals — like dozens of conductors all waving at once. Instead of a steady beat, your heart quivers and beats irregularly." | Random sparks fire across the top chambers. The rate counter jumps unpredictably. |
+| 4 | 0:38–0:44 | Transition card: Why this matters, with two numbered icons. | "This matters for two big reasons." | A title card reads: Why this matters. |
+| 5 | 0:44–1:08 | Zoomed view of left atrium. Blood swirling slowly. A small clot forms and travels to the brain. Red flash at brain. | "First, when the upper chambers quiver instead of pumping, blood can pool there. Pooled blood can form clots. If a clot travels to your brain, it causes a stroke. That is why your doctor prescribed a blood thinner — it is your most important protection." | Blood pools, a clot forms and travels to the brain. |
+| 6 | 1:08–1:22 | Heart beating fast at 140bpm. Walls look strained. Pill icon appears, rate slows to 78bpm. | "Second, AFib can make your heart beat too fast, which tires the heart muscle over time. Rate control medications keep that in check." | Fast heart rate slows after medication. |
+| 7 | 1:22–1:30 | Elderly couple walking in a park. One wears a smartwatch. Both smiling. | "The good news: most people with AFib live full, active lives." | A couple walks happily outdoors. |
+| 8 | 1:30–1:48 | Three icons: pill bottle, ECG device, trigger diary. Each pulses as mentioned. | "With the right medications, regular monitoring through your connected device, and understanding your personal triggers, you can manage this condition confidently." | Three management icons appear in sequence. |
+| 9 | 1:48–2:00 | Phone showing HelloAlfred app with vitals dashboard. Notification badge appears. | "Your care team at HelloAlfred monitors your readings between visits so nothing gets missed." | HelloAlfred app showing heart rate readings. |
+| 10 | 2:00–2:10 | HelloAlfred logo. Text: Learn more in your AFib curriculum — 18 lessons. Soft fade out. | | The HelloAlfred logo with curriculum text. |

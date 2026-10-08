@@ -1,0 +1,32 @@
+### Full Video Script — Understanding High Blood Pressure
+
+Your blood pressure is the force of blood pushing against the walls of your arteries.
+
+Think of it like water flowing through a garden hose. When the pressure is just right, water flows smoothly. When the pressure is too high, it strains the hose.
+
+Blood pressure is measured with two numbers. The top number, systolic, measures the pressure when your heart beats. The bottom number, diastolic, measures the pressure when your heart rests between beats.
+
+A normal reading is below 120 over 80. High blood pressure, or hypertension, is 130 over 80 or higher.
+
+Here is why this matters.
+
+When blood pressure stays high for a long time, it quietly damages your arteries, your heart, your kidneys, and your brain — often with no warning signs at all. That is why hypertension is sometimes called the silent killer.
+
+The good news is that high blood pressure is very manageable.
+
+Lifestyle changes like reducing salt, staying active, and limiting alcohol can make a real difference. Your doctor may also prescribe medication to help keep your numbers in a healthy range.
+
+Checking your blood pressure regularly is the most important thing you can do. Your HelloAlfred device makes this easy — your care team sees your readings automatically so any changes are caught early.
+
+### Storyboard — 8 Scenes
+
+| Scene | Time | Visual | Audio |
+|-------|------|--------|-------|
+| 1 | 0:00–0:10 | Animated artery cross-section. Blood flowing smoothly. Gentle pulse visible on artery walls. | "Your blood pressure is the force of blood pushing against the walls of your arteries." |
+| 2 | 0:10–0:22 | Garden hose animation. Normal flow, then high-pressure flow straining the hose. | "Think of it like water flowing through a garden hose. When the pressure is just right, water flows smoothly. When the pressure is too high, it strains the hose." |
+| 3 | 0:22–0:38 | Blood pressure cuff inflating. Numbers appear: 120/80 highlighted in green, then 140/90 in red. | "Blood pressure is measured with two numbers. A normal reading is below 120 over 80. High blood pressure is 130 over 80 or higher." |
+| 4 | 0:38–1:00 | Silhouette of a body. Red glow slowly spreading from heart to arteries, kidneys, and brain. | "When blood pressure stays high for a long time, it quietly damages your arteries, your heart, your kidneys, and your brain — often with no warning signs at all." |
+| 5 | 1:00–1:12 | Transition card: Managing your blood pressure. | "The good news is that high blood pressure is very manageable." |
+| 6 | 1:12–1:30 | Split screen: plate of food (low salt), person walking, no alcohol icon. Then a pill icon. | "Lifestyle changes like reducing salt, staying active, and limiting alcohol can make a real difference. Your doctor may also prescribe medication." |
+| 7 | 1:30–1:45 | HelloAlfred blood pressure monitor on a wrist. Reading syncing to phone app. Care team notification. | "Your HelloAlfred device makes this easy — your care team sees your readings automatically so any changes are caught early." |
+| 8 | 1:45–1:55 | HelloAlfred logo. Text: Track your blood pressure daily. Soft fade. | |

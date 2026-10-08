@@ -1,0 +1,33 @@
+### Full Video Script — Understanding Your Heart Medications
+
+Your doctor has prescribed medications to protect your heart. Understanding what each one does can help you take them consistently — and that consistency is what makes them work.
+
+Let's walk through the most common heart medications and what they do in your body.
+
+Beta-blockers slow your heart rate and reduce the workload on your heart. They help prevent your heart from working too hard, which protects the heart muscle over time. You may notice your heart rate is lower than usual — that is the medication working as intended.
+
+ACE inhibitors and ARBs relax your blood vessels, making it easier for your heart to pump. They also protect your kidneys. These are especially important if you have heart failure or diabetes.
+
+Diuretics, sometimes called water pills, help your kidneys remove extra fluid from your body. This reduces the burden on your heart and relieves swelling in your legs and feet. You may urinate more often — that is expected and means the medication is doing its job.
+
+Blood thinners, like warfarin or newer anticoagulants, prevent blood clots from forming. If you have AFib or have had a stroke, these are your most important protection. Never skip a dose, and always tell any doctor or dentist you are taking them.
+
+Statins lower LDL cholesterol and reduce inflammation in your blood vessels. They are one of the most proven heart-protective medications available. Most people tolerate them well.
+
+Taking all your medications together, every day, is what gives your heart the best protection. Missing doses — even occasionally — reduces how well they work.
+
+Your HelloAlfred care team can see when you report symptoms that may be related to medication side effects, and can work with your doctor to adjust your plan if needed.
+
+### Storyboard — 9 Scenes
+
+| Scene | Time | Visual | Audio |
+|-------|------|--------|-------|
+| 1 | 0:00–0:12 | Pill bottles arranged on a surface. Soft light. Each glows gently as introduced. | "Your doctor has prescribed medications to protect your heart. Understanding what each one does can help you take them consistently." |
+| 2 | 0:12–0:28 | Animated heart slowing to a calm, steady rhythm. Heart muscle shown relaxing. Heart rate counter dropping from 90 to 62. | "Beta-blockers slow your heart rate and reduce the workload on your heart. You may notice your heart rate is lower — that is the medication working." |
+| 3 | 0:28–0:45 | Blood vessel walls relaxing and widening. Blood flowing more easily through the vessel. Heart pumping with less effort. | "ACE inhibitors and ARBs relax your blood vessels, making it easier for your heart to pump. They also protect your kidneys." |
+| 4 | 0:45–1:02 | Kidneys filtering fluid. Excess fluid leaving the body. Swollen ankle illustration deflating. | "Diuretics help your kidneys remove extra fluid. You may urinate more often — that means the medication is doing its job." |
+| 5 | 1:02–1:18 | Blood cells flowing smoothly. A clot starting to form, then dissolving as blood thinner icon appears. AFib heart rhythm in background. | "Blood thinners prevent blood clots from forming. If you have AFib, these are your most important protection. Never skip a dose." |
+| 6 | 1:18–1:32 | LDL cholesterol reducing in artery. Artery wall becoming cleaner. Statin pill icon pulsing. | "Statins lower LDL cholesterol and reduce inflammation. They are one of the most proven heart-protective medications available." |
+| 7 | 1:32–1:48 | Daily pill organiser being filled. Calendar showing consistent daily routine. Heart shown thriving. | "Taking all your medications together, every day, is what gives your heart the best protection. Missing doses reduces how well they work." |
+| 8 | 1:48–2:02 | HelloAlfred app symptom log. Care team notification. Doctor and patient icon connected. | "Your HelloAlfred care team can see symptoms that may be related to medication side effects and work with your doctor to adjust your plan." |
+| 9 | 2:02–2:12 | HelloAlfred logo. Text: Take your medications every day. Soft fade. | |

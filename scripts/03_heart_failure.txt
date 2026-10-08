@@ -1,0 +1,31 @@
+### Full Video Script — Understanding Heart Failure
+
+Heart failure does not mean your heart has stopped. It means your heart is not pumping as well as it should.
+
+Think of your heart as a pump. In a healthy heart, the pump fills with blood and squeezes it out to the rest of your body with every beat. In heart failure, the pump becomes weaker — it either cannot fill properly, or it cannot squeeze hard enough to send blood where it needs to go.
+
+When that happens, your body does not get enough oxygen and nutrients. Fluid can build up in your lungs, legs, and feet. That is why you may feel short of breath, tired, or notice swelling in your ankles.
+
+There are two main types. In HFrEF, the heart muscle is weakened and cannot squeeze hard enough. In HFpEF, the heart muscle is stiff and cannot fill properly. Your doctor will tell you which type you have, because treatment is different for each.
+
+Heart failure is a serious condition, but it is manageable.
+
+Your medications are the most important part of your treatment — they protect your heart and prevent the condition from getting worse. Taking them every day as prescribed makes a real difference.
+
+Watching your weight daily is also key. A sudden weight gain of two or more pounds in a day, or five pounds in a week, can mean fluid is building up — and your care team needs to know right away.
+
+Your HelloAlfred device tracks your weight and symptoms automatically. Your care team reviews your data between visits so small changes are caught before they become emergencies.
+
+### Storyboard — 9 Scenes
+
+| Scene | Time | Visual | Audio |
+|-------|------|--------|-------|
+| 1 | 0:00–0:10 | Animated heart pumping steadily. Clear fill and squeeze cycle visible. | "Heart failure does not mean your heart has stopped. It means your heart is not pumping as well as it should." |
+| 2 | 0:10–0:28 | Side-by-side: healthy pump fills and squeezes fully. Weak pump fills partially and squeezes weakly. Blood flow arrows diminished on the weak side. | "In heart failure, the pump becomes weaker — it either cannot fill properly, or it cannot squeeze hard enough to send blood where it needs to go." |
+| 3 | 0:28–0:48 | Body silhouette. Fluid accumulating in lungs (blue tint), legs and feet swelling. Person sitting breathlessly. | "Your body does not get enough oxygen. Fluid can build up in your lungs, legs, and feet. You may feel short of breath, tired, or notice swelling in your ankles." |
+| 4 | 0:48–1:05 | Split screen: left side shows weak squeezing heart (HFrEF), right side shows stiff non-filling heart (HFpEF). Labels appear. | "In HFrEF, the heart muscle is weakened. In HFpEF, the heart muscle is stiff. Treatment is different for each type." |
+| 5 | 1:05–1:12 | Transition card: Managing heart failure. | "Heart failure is a serious condition, but it is manageable." |
+| 6 | 1:12–1:28 | Pill bottles lined up. Person taking medication. Calendar showing daily routine. | "Your medications are the most important part of your treatment. Taking them every day as prescribed makes a real difference." |
+| 7 | 1:28–1:45 | Person stepping on scale each morning. Scale showing normal reading, then jumping up 3 lbs — alert icon appears. | "A sudden weight gain of two or more pounds in a day can mean fluid is building up — and your care team needs to know right away." |
+| 8 | 1:45–2:00 | HelloAlfred connected scale syncing to app. Care team dashboard updating automatically. | "Your HelloAlfred device tracks your weight and symptoms automatically. Your care team reviews your data between visits." |
+| 9 | 2:00–2:10 | HelloAlfred logo. Text: Weigh yourself every morning. Soft fade. | |

@@ -1,0 +1,28 @@
+# Local secrets / configuration
+local.settings.json
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.python_packages/
+
+# Azure Functions build artifacts
+bin/
+obj/
+
+# Generated/local artifacts
+outputs/
+converted_scripts/
+*.mp4
+*.wav
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

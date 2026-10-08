@@ -1,0 +1,34 @@
+### Full Video Script — Diabetes and Your Heart
+
+If you have diabetes, your heart needs extra attention.
+
+Here is why. When blood sugar stays high over time, it damages the walls of your blood vessels. Damaged blood vessels become stiff and narrow, making it harder for blood to flow. This significantly raises your risk of heart attack and stroke.
+
+In fact, people with diabetes are two to four times more likely to develop heart disease than people without diabetes.
+
+But the connection goes both ways — taking care of your heart also helps your diabetes.
+
+There are three numbers your care team watches closely.
+
+Your blood sugar, measured as HbA1c, shows your average glucose over the past three months. Keeping it below seven percent reduces damage to your blood vessels.
+
+Your blood pressure should stay below 130 over 80. High blood pressure is especially harmful to already-stressed blood vessels.
+
+Your cholesterol — specifically LDL — should be kept low, ideally below 70 if you already have heart disease. Statins are often prescribed to help with this.
+
+Your medications work together as a team. Some of your diabetes medications, like SGLT2 inhibitors and GLP-1 agonists, also directly protect your heart and kidneys — so taking them every day matters more than you might realize.
+
+HelloAlfred helps you track all three numbers in one place. Your care team monitors your readings and can reach out when something needs attention — before it becomes a problem.
+
+### Storyboard — 8 Scenes
+
+| Scene | Time | Visual | Audio |
+|-------|------|--------|-------|
+| 1 | 0:00–0:10 | Animated healthy blood vessel with smooth blood flow. Then sugar crystals appearing in bloodstream, vessel walls thickening and narrowing. | "When blood sugar stays high over time, it damages the walls of your blood vessels." |
+| 2 | 0:10–0:25 | Narrowed vessel with reduced blood flow. Heart straining. Brain with reduced supply. Risk icons appearing. | "Damaged blood vessels become stiff and narrow. People with diabetes are two to four times more likely to develop heart disease." |
+| 3 | 0:25–0:38 | Transition card: Three numbers that matter. Three circular gauges appear labeled HbA1c, Blood Pressure, Cholesterol. | "There are three numbers your care team watches closely." |
+| 4 | 0:38–0:55 | HbA1c gauge. Needle moving from high (9%) to target (below 7%). Blood vessel wall visibly smoothing. | "Your HbA1c shows your average glucose over three months. Keeping it below seven percent reduces damage to your blood vessels." |
+| 5 | 0:55–1:10 | Blood pressure cuff. Reading dropping from 145/90 to 128/78 shown in green. | "Your blood pressure should stay below 130 over 80. High blood pressure is especially harmful to already-stressed blood vessels." |
+| 6 | 1:10–1:25 | LDL cholesterol molecules in bloodstream reducing. Artery wall becoming cleaner. | "Your LDL cholesterol should be kept low. Statins are often prescribed to help with this." |
+| 7 | 1:25–1:45 | Pill bottles labelled. Icons for SGLT2 inhibitor and GLP-1 glowing with heart and kidney symbols beside them. | "Some of your diabetes medications also directly protect your heart and kidneys — so taking them every day matters more than you might realize." |
+| 8 | 1:45–2:00 | HelloAlfred app dashboard showing glucose, blood pressure, and cholesterol trends together. Care team notification. | "HelloAlfred helps you track all three numbers in one place. Your care team monitors your readings and can reach out when something needs attention." |
