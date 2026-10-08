@@ -202,14 +202,3 @@ This repository contains a sanitized version intended for portfolio and demonstr
 
 Company-specific credentials, private configurations, proprietary assets, and other confidential information have been excluded.
 
-## Author
-
-**Surya Pramod**
-
-B.Tech – Computer Science and Engineering (Artificial Intelligence)
-
-Amrita Vishwa Vidyapeetham, Bengaluru
-
----
-
-⭐ Developed as part of an internship at **Hello Alfred**.
