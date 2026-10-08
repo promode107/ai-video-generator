@@ -1,4 +1,4 @@
-# Internship Video Generator
+# Automated AI Video Generator
 
 An automated video generation system developed as part of my internship at **Hello Alfred**.
 
